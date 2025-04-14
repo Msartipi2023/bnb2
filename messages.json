@@ -1,1 +1,17 @@
-{ "start": "Welcome to BNB Airdrop Bot!" }
+{
+
+  "start": "Welcome to BNB Airdrop Bot!",
+
+  "task_join_channel": "Please join our official Telegram channel.",
+
+  "task_follow_twitter": "Follow us on Twitter and send your username.",
+
+  "task_wallet": "Send your BNB wallet address (starts with 0x).",
+
+  "task_deposit": "Deposit 0.005 BNB to receive your airdrop reward.",
+
+  "referral_info": "Invite your friends using your referral link to earn more!",
+
+  "thanks": "Thanks! Your address has been received."
+
+}
